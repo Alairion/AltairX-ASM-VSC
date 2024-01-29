@@ -4,7 +4,7 @@
   "description": "Basic Syntax Highlighting for AltairX assembly language",
   "version": "1.0.0",
   "engines": {
-    "vscode": "^1.85.0"
+    "vscode": "^1.50.0"
   },
   "categories": [
     "Programming Languages"
